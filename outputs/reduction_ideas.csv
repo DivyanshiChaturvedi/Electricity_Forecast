@@ -1,0 +1,9 @@
+category,title,description,potential_savings
+Peak Hour Management,Shift Non-Essential Loads,"Peak hours show 62.4% of consumption. Consider running high-energy appliances (dishwasher, laundry) during off-peak hours (before 6 AM or after 9 PM).",15-25%
+Peak Hour Management,Implement Time-of-Use Pricing,Review utility rate structures and consider time-of-use plans that offer lower rates during off-peak periods.,10-20%
+Daily Optimization,Focus on Sunday Consumption,Sunday shows highest average consumption. Investigate what activities drive usage on this day.,5-15%
+Seasonal Efficiency,Reduce Winter Consumption,"Winter has the highest consumption. Consider HVAC optimization, insulation improvements, or scheduling adjustments for this season.",10-30%
+Hourly Optimization,Reduce Peak Hour Usage,Peak consumption at 21:00. Review equipment schedules and consider pre-cooling/pre-heating strategies.,10-20%
+Smart Monitoring,Install Smart Meters,Real-time monitoring helps identify unusual consumption patterns and waste sources.,5-10%
+Equipment Efficiency,Upgrade to Energy-Efficient Appliances,Replace old appliances with ENERGY STAR rated equipment. Old refrigerators and HVAC systems can use 30-50% more energy.,10-20%
+Behavioral Changes,Implement Awareness Programs,"Simple behavioral changes like turning off lights, unplugging devices, and reducing standby power can save 5-15%.",5-15%
